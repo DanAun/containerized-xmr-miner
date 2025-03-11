@@ -28,3 +28,8 @@ Replace `YOUR_WALLET_ADDRESS` with your actual Monero wallet address.
 - **No donation fee** (modified `donate.h` to set the donation level to `0%`).
 - **Lightweight Alpine-based image** for minimal overhead.
 - **Pass runtime arguments** dynamically when starting the container.
+
+### Donate
+```
+45auiJmVEFmaKnQCwPgoCJPez8Xe6d4tvfkvH3GP3M5tbJUa9QXwnLN1RZqs8WYw4o1McqKQwfoeUUfxYwRJP7pNM4geUTo
+```
