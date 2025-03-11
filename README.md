@@ -1,4 +1,4 @@
-# containerized-xmr-miner
+# Containerized-XMRig
 
 This repository provides a Dockerized version of [XMRig](https://github.com/xmrig/xmrig), a high-performance Monero (XMR) miner. The donation level has been set to **0%**, meaning no mining power is contributed to the XMRig developers by default.
 
